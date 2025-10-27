@@ -22,7 +22,7 @@ PathTweaks is a professional-grade, subscription-managed Windows optimization su
 | File / Folder      | Description |
 |--------------------|-------------|
 | `PathTweaks.ps1`   | Main executable (self-contained PowerShell GUI application) |
-| `t120/`            | Directory containing obfuscated, game-specific tweak scripts |
+| `t120/`            | Directory containing obfuscated, Support Scripts |
 | `approved.txt`     | License file—place your purchased activation codes here (one per line) |
 | `README.md`        | This documentation |
 
