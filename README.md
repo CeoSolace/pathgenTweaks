@@ -86,7 +86,7 @@ Access is dynamically managed through our secure backend:
 
 ## 📞 **Support & Licensing**
 
-PathTweaks is developed and maintained by **BioLinkHQ**.
+PathTweaks is developed and maintained by **BioLinkHQ Dev Team + PathGen**.
 
 For licensing, technical support, or enterprise inquiries:  
 🌐 **Join our Discord**: [https://discord.gg/2MCR6yYGe7](https://discord.gg/2MCR6yYGe7)
