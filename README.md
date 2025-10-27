@@ -1,59 +1,101 @@
-PathTweaks – Advanced Multi-Function Game Performance Optimizer
-Optimize. Elevate. Dominate.
+# **PathTweaks**  
+### *Advanced Multi-Function Game Performance Optimizer*  
+> **Optimize. Elevate. Dominate.**
 
-PathTweaks is a professional-grade, subscription-managed Windows optimization suite engineered exclusively for competitive gamers. Delivering deep, multi-layered performance enhancements for Fortnite, Valorant, and Call of Duty, PathTweaks intelligently tunes system resources to maximize FPS, reduce input latency, stabilize network performance, and eliminate background interference—without compromising anti-cheat compliance.
+---
 
-🔐 Security & Compliance
-Zero kernel hooks or memory injection — fully anti-cheat safe
-Minimal telemetry: Only transmits your registered username and public IP for subscription validation
-No persistent background processes — runs on-demand, exits cleanly
-Reversible optimizations — all changes adhere to standard Windows configuration practices
-📦 Included Components
-PathTweaks.ps1
-Main executable (PowerShell GUI application)
-t120/
-Obfuscated tweak scripts (one per feature)
-approved.txt
-License activation file (add your purchased codes here)
-README.md
-This documentation
+PathTweaks is a professional-grade, subscription-managed Windows optimization suite engineered exclusively for competitive gamers. Designed for **Fortnite**, **Valorant**, and **Call of Duty**, it delivers deep, multi-layered system enhancements to maximize FPS, reduce input latency, stabilize network performance, and eliminate background interference—**without violating anti-cheat policies**.
 
-⚠️ No installer required. No additional dependencies. Fully portable. 
+---
 
-🚀 Quick Start
-Download the latest release from your authorized source.
-Extract all contents to a dedicated folder (e.g., C:\PathTweaks).
-Add your activation codes to approved.txt (one per line).
-Double-click PathTweaks.ps1 and follow the prompts:
-Enter your registered username
-Select your game
-Input your activation code
-Allow UAC elevation when prompted (required for system-level optimizations).
-✅ Note: An active internet connection is required for initial subscription validation and optional updates. 
+## 🔐 **Security & Compliance**
 
-🔁 Automatic Updates
-PathTweaks securely checks for updates exclusively from the official GitHub repository:
-🔗 https://github.com/ceoSolace/pathgenTweaks
+- ✅ **Anti-Cheat Safe**: Zero kernel hooks, memory injection, or driver-level modifications  
+- 📡 **Minimal Telemetry**: Only your registered **username** and **public IP** are transmitted—for subscription validation  
+- 🧹 **No Background Processes**: Runs on-demand and exits cleanly after execution  
+- ↩️ **Fully Reversible**: All optimizations use standard Windows APIs and registry settings—easily undone via system settings  
 
-Only the core PathTweaks.ps1 file is ever updated
-No additional files are downloaded or modified
-Update prompts are user-approved — nothing installs silently
-🛡️ Subscription Management
-Your access is tied to an active subscription:
+---
 
-On first launch, your username and IP address are securely registered with our dashboard
-If your subscription expires, all tweak execution is immediately disabled
-Reactivation requires a valid subscription and re-entry of your credentials
-Admins may revoke access at any time via the secure management portal.
+## 📦 **Included Components**
 
-💻 System Requirements
-Windows 10 or 11 (64-bit)
-PowerShell 5.1+ (included by default)
-Administrator privileges (UAC prompt on launch)
-Internet connection (for validation and updates only)
-📞 Support & Compliance
-PathTweaks is developed and maintained by BioLinkHQ.
-For licensing, support, or enterprise inquiries, visit:
-🌐 https://discord.gg/2MCR6yYGe7
+| File / Folder      | Description |
+|--------------------|-------------|
+| `PathTweaks.ps1`   | Main executable (self-contained PowerShell GUI application) |
+| `t120/`            | Directory containing obfuscated, game-specific tweak scripts |
+| `approved.txt`     | License file—place your purchased activation codes here (one per line) |
+| `README.md`        | This documentation |
 
-ℹ️ This software is intended for performance optimization only. Misuse or unauthorized distribution violates the terms of service and may result in immediate license termination. 
+> ⚠️ **No installer. No dependencies. Fully portable.**  
+> Simply extract and run—no system modifications outside of active tweak sessions.
+
+---
+
+## 🚀 **Getting Started**
+
+1. **Download** the official release package from your authorized distributor.  
+2. **Extract** all contents to a dedicated folder (e.g., `C:\PathTweaks`).  
+3. **Edit `approved.txt`** and add your activation codes (one per line).  
+4. **Double-click `PathTweaks.ps1`** to launch:  
+   - Enter your **registered username**  
+   - Select your **game** (Fortnite / Valorant / COD)  
+   - Input the corresponding **activation code**  
+5. **Approve UAC elevation** when prompted (required for system-level tuning).  
+
+> 💡 **Note**: An internet connection is required **only** for:  
+> - Initial username/IP registration  
+> - Subscription validation  
+> - Optional update checks  
+
+---
+
+## 🔁 **Secure Update Mechanism**
+
+PathTweaks checks for updates **exclusively** from the official source:  
+🔗 [https://github.com/ceoSolace/pathgenTweaks](https://github.com/ceoSolace/pathgenTweaks)
+
+- Only **`PathTweaks.ps1`** is ever updated—**no other files are downloaded or modified**  
+- Updates are **user-approved**—nothing installs silently  
+- Integrity verified via SHA-256 hash comparison  
+
+---
+
+## 🛡️ **Subscription Enforcement**
+
+Access is dynamically managed through our secure backend:
+
+- On first use, your **username + IP** are registered with `pathgenTweaks`  
+- If your subscription expires, **all tweak execution halts immediately**  
+- Reactivation requires a valid subscription and re-authentication  
+- Admins can **remotely revoke access** at any time via the management dashboard  
+
+> 🔒 Your system remains protected—no tweaks run without active authorization.
+
+---
+
+## 💻 **System Requirements**
+
+| Requirement               | Specification |
+|--------------------------|---------------|
+| **Operating System**     | Windows 10 or 11 (64-bit) |
+| **PowerShell**           | 5.1 or higher (included by default) |
+| **Privileges**           | Administrator rights (UAC prompt on launch) |
+| **Internet**             | Required only for validation & updates |
+
+---
+
+## 📞 **Support & Licensing**
+
+PathTweaks is developed and maintained by **BioLinkHQ**.
+
+For licensing, technical support, or enterprise inquiries:  
+🌐 **Join our Discord**: [https://discord.gg/2MCR6yYGe7](https://discord.gg/2MCR6yYGe7)
+
+> ℹ️ **Legal Notice**:  
+> This software is licensed for personal performance optimization only.  
+> Unauthorized distribution, reverse engineering, or resale violates our Terms of Service and will result in immediate license termination and potential legal action.
+
+---
+
+**© 2025 PathGen – All rights reserved.**  
+*PathTweaks is not affiliated with Epic Games, Riot Games, Activision, or Microsoft.*
